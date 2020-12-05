@@ -49,5 +49,5 @@ Puzzle data ProDiscovery tool offers you the following features
    
    5. Mobile shopping apps - [learn more](https://www.puzzledata.com/solution_eng/#solution_cases)
  
- 2. Blogs and success stories [explore](https://www.puzzledata.com/solution_eng/#solution_success_story)
+ # Blogs and success stories [explore](https://www.puzzledata.com/solution_eng/#solution_success_story)
     
