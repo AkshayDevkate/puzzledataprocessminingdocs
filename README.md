@@ -33,3 +33,21 @@ Puzzle data ProDiscovery tool offers you the following features
   6. Software development process - [learn more](https://www.puzzledata.com/process-mining_eng/)
   
   7. HR management process - [learn more](https://www.puzzledata.com/process-mining_eng/)
+
+
+# Resources 
+
+ 1.  Case Studies by industries 
+    
+   1. Semi conductors - [learn more](https://www.puzzledata.com/solution_eng/#solution_cases)
+   
+   2. Mobile games and apps - [learn more](https://www.puzzledata.com/solution_eng/#solution_cases)
+   
+   3. Hospitals - [learn more](https://www.puzzledata.com/solution_eng/#solution_cases)
+   
+   4. Shipbuilding and offshore plants - [learn more](https://www.puzzledata.com/solution_eng/#solution_cases)
+   
+   5. Mobile shopping apps - [learn more](https://www.puzzledata.com/solution_eng/#solution_cases)
+ 
+ 2. Blogs and success stories [explore](https://www.puzzledata.com/solution_eng/#solution_success_story)
+    
